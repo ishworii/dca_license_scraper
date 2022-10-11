@@ -18,7 +18,7 @@ driver = webdriver.Chrome(
     chrome_options=chrome_options,
 )
 
-driver.get("file:///C:/Users/PC/Downloads/Search%20-%20DCA.html")
+driver.get("https://search.dca.ca.gov/")
 
 
 # select board of bureau
